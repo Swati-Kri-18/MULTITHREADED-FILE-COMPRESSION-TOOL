@@ -32,3 +32,7 @@ DESCRIBTION:
 -> Performance optimization through parallel processing
 
 -> Use of file streams for large file handling
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/7d95e7da-9d12-4fc1-be9e-d6fe9f4dd4a8)
